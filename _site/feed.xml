@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Your awesome title</title>
-    <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
+    <title>Make TJ&#39;s Floors Great Again</title>
+    <description>Students have been leaving trash throughout the school.  We need to be responsible members of the TJ community by keeping our commons areas and hallways clean before, during, and after lunch.
 </description>
-    <link>https://wzhang.me//</link>
-    <atom:link href="https://wzhang.me//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 11 Dec 2015 07:53:00 -0500</pubDate>
-    <lastBuildDate>Fri, 11 Dec 2015 07:53:00 -0500</lastBuildDate>
+    <link>https://wzhang.me/tjfloors/</link>
+    <atom:link href="https://wzhang.me/tjfloors/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Fri, 11 Dec 2015 10:35:32 -0500</pubDate>
+    <lastBuildDate>Fri, 11 Dec 2015 10:35:32 -0500</lastBuildDate>
     <generator>Jekyll v3.0.1</generator>
     
       <item>
@@ -28,8 +28,8 @@
 
 </description>
         <pubDate>Wed, 09 Dec 2015 11:44:02 -0500</pubDate>
-        <link>https://wzhang.me//jekyll/update/2015/12/09/welcome-to-jekyll.html</link>
-        <guid isPermaLink="true">https://wzhang.me//jekyll/update/2015/12/09/welcome-to-jekyll.html</guid>
+        <link>https://wzhang.me/tjfloors/jekyll/update/2015/12/09/welcome-to-jekyll.html</link>
+        <guid isPermaLink="true">https://wzhang.me/tjfloors/jekyll/update/2015/12/09/welcome-to-jekyll.html</guid>
         
         
         <category>jekyll</category>
